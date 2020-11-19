@@ -1,4 +1,4 @@
-# Requesting Holidays & Materials
+# Requesting Holidays & Time-off
 
 ## Local holidays
 
